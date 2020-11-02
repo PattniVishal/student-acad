@@ -1,2 +1,3 @@
 # student-acad
-attendance system
+
+FB like landing page
